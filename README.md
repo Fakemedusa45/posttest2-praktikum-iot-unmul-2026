@@ -51,7 +51,8 @@ Berikut adalah daftar perintah yang dapat digunakan di dalam grup Telegram beser
 
 ### 3. Cek Lingkungan Ruangan - *Akses Terbuka*
 * **Command:** `/suhu`
-  * **Respons:** ```text
+  * **Respons:**
+    ```text
     🌡️ Suhu: 23.70°C
     💧 Lembap: 19.00%
     ```
