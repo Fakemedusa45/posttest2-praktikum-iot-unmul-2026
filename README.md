@@ -112,4 +112,4 @@ Berikut adalah daftar perintah yang dapat digunakan di dalam grup Telegram beser
 
 Berikut adalah video demonstrasi dari proyek kami yang memperlihatkan anggota kelompok, rangkaian *hardware*, *source code*, dan hasil monitoring/kontrol pada platform IoT:
 
-[![Video Demo](https://img.shields.io/badge/YouTube-Tonton_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Video Demo](https://img.shields.io/badge/YouTube-Tonton_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hKgcSIGpwgk?si=KQNqy6dEPTMBxLKD)
